@@ -1,0 +1,23 @@
+logo_image:
+dark_footer: true
+menuitems:
+  - title: About
+    link:  /about/
+#  - title: Elements
+#    link:  /elements/
+  - title: Privacy policy
+    link:  /privacy-policy/
+socials:
+#  - title: Facebook
+#    link: https://facebook.com
+#    logo_image: /img/facebook.svg
+  - title: Codeberg
+    link: https://codeberg.com
+    logo_image: /img/codeberg.svg      
+  - title: Gab
+    link: https://gab.com
+    logo_image: /img/gab.svg      
+  - title: Linkedin
+    link: https://linkedin.com
+    logo_image: /img/linkedin.svg
+footer_text: Made in [HUGOBRICKS](https://github.com/jhvanderschee/hugobricks) theme
