@@ -47,24 +47,35 @@ for instance, amongst a whole host of really horrible practices).
 
 Ezekiel tells us, (chapter 14), that Israel is so wicked (circa 6th Century BC) that:
 
-**"14Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, saith the Lord God.....
-16 Though these three men were in it, as I live, saith the Lord God, they shall deliver neither sons nor daughters; they only shall be delivered".**
+**14 Though these three men, Noah, Daniel, and Job, were in it, they should deliver but their own souls by their righteousness, saith the Lord God.....
+16 Though these three men were in it, as I live, saith the Lord God, they shall deliver neither sons nor daughters; they only shall be delivered**
 
 Which really underscores the point - the sin of Israel is so egregious that even children normally adjudged as righteous are tainted by it.
 
 Of course these ideas are not extant in the new covenant, (‘the sins of the fathers shall no longer be visited on the sons’), but we see them however manifested in the 
-present (2024) actions of the state of Israel, who clearly demonstrate an old covenant mindset in this regard. 
+present (2024) actions of the state of Israel and their blanket obliteration of Palestinians, clearly demonstrating an old covenant mindset - or at least paradigm -
+in this regard. 
 
 Returning to Adam, Paul tells us that (Romans 5 verse 12):
 
-**Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned**
+- **Therefore, just as sin entered the world through one man, and death through sin, and in this way death came to all people, because all sinned - NIV**
+- **Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned - KJV**
 
-What he really means is:
-Sin entered the world through Adam (when Adam disobeyed God). Death was his punishment, but this punishment was applied to all mankind ‘because all have sinned’, 
-**epi os pas hamartano** - literally  ‘***upon which*** all have sinned’. I understand epi os (upon which) here to mean ‘from which we can infer’, epi os having both a 
-literal and a figurative sense. The figurative sense of upon which is that of logical conjunction. Because all men die we can logical attach to that that all men have sinned. What 
-Paul in effect is telling us is that Adam’s sin is a generational sin which means that God has adjudged all generations of Adam, ergo mankind, to be sinful, to be generationally 
-sinful because Adam was sinful.  
+It would be easy to read this, (or perhaps some Churches have mistakenly taught it this way), as meaning that we all die because we all sin, which we would construct in English 
+something like: "death passes to all men because all men sin" - as if you were not subject to mortality until that moment you stole a 
+packet of sweets when you were seven. However, this is not really what is meant here. The Greek tense being used, the aorist active indicative, actually 
+militates against this sense. The aorist active indicative refers to a specific one-off event in the past, and so, literally, we could understand: "Death passed, 
+(one-off event), to all mankind, because mankind sinned, (one-off event)". And as we read the whole passage, it becomes clearer that this is precisely what Paul means:
 
-Having established the nature of sin, we can now move on to blessings and cursings. Don’t worry, we will come full circle to Israel at the end of the Church age,
+**19 For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous**
+
+The point here is that all mankind are tainted by Adam's sin. Or more precisely, all mankind is held accountable for Adam's sin.
+Adam’s sin is a generational sin, and in this instance, it affects all subsequent generations. God has adjudged all generations of Adam, ergo mankind, to be sinful, 
+to be generationally sinful because Adam was sinful.   
+
+We could perhaps reflect on why God thinks like this, (my personal feeling is that this is because natural law precedes spiritual law*), but I really wanted here to establish 
+the nature of sin, which is critical in understanding blessings and cursings. Don’t worry, we will come full circle to Israel at the end of the Church age,
  which I mentioned as ‘Tabula Rasa’ in my first blog.
+
+*By natural law I just mean the nature of things. Jesus applied natural law as well as spiritual law - 'You reap what you sow'. I.E. things have consequences, something that 
+is just hard-wired into the nature of the universe, along with more tangible natural laws like 'men impregnate women to make babies'.       
