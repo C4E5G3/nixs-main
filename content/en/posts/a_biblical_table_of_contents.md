@@ -98,9 +98,9 @@ of a nation, hence whilst in bondage in Egypt,{'Act 1'}, the Israelites were not
 
 #### (Act 3) - Thou shalt be a blessing
 The idea here is not particularly complex. Christ came out of Israel, being in fact born of the tribe of Judah, and specifically, from the House Of David as promised by God. 
-The blessing that Israel bestowed on the world was Jesus Christ, it is as simple as that. It is an idea reiterated by God elsewhere: 
-**Genesis 22:18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice** 
-And the point is underscored and made unambiguously crystal clear by Paul:
+The blessing that Israel bestowed on the world was Jesus Christ, it is as simple as that. It is an idea reiterated by God elsewhere:      
+**Genesis 22:18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice**     
+And the point is underscored and made unambiguously crystal clear by Paul:    
 **Galatians 3:16 Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ**
 
 &nbsp; 
@@ -153,4 +153,4 @@ To make it slightly clearer, we are very familiar with the curse, as Jesus prono
 But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye 
 them that are entering to go in**
 
-But I don't want to get dragged away from showing the general synopsis of events, so I will wrap this article here for now. 
+But I don't want to get dragged away from showing the general synopsis of events, so I will wrap this article up here for now. 
