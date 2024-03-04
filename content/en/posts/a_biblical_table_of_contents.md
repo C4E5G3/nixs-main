@@ -66,7 +66,7 @@ Let's examine these elements one by one.
 
 &nbsp;   
 
-#### (Act 1)
+#### (Act 1) - I will make of thee a great nation 
 The primary meaning of the hebrew word 'gôy' here is a body of people, and so this is better understood as: "I will make of thee a great people". 
 Whilst 'people' clearly overlaps with the notion of a nation, the two are not synonymous, and it is worth bearing in mind that whilst the Israelites have 
 been in existence for close to 4000 years, they have inhabited their eponymous nation for less than half that time, around 1410 years to be reasonably 
@@ -77,7 +77,7 @@ sons of Jacob forming the 12 tribes of Israel, down to the multitude of an estim
 
 &nbsp; 
 
-#### (Act 2)
+#### (Act 2) - I will bless thee and make thy name great
 When the Israelites arrived in Sinai, they received the Law, which operated as a binary system of conformity or infraction.
 The penalty for egregious violations of the Law was death, which is in effect the most extreme form of exclusion from the camp of Israel. 
 There were however other instances where people were legally excluded from the camp, (Deuteronomy 23), but not subject to execution.
@@ -96,12 +96,16 @@ of a nation, hence whilst in bondage in Egypt,{'Act 1'}, the Israelites were not
 &nbsp; 
    
 
-#### (Act 3)
-Christ was an Israelite, born of the tribe of Judah. The blessing that Israel bestowed on the world was Jesus Christ.
+#### (Act 3) - Thou shalt be a blessing
+The idea here is not particularly complex. Christ came out of Israel, being in fact born of the tribe of Judah, and specifically, from the House Of David as promised by God. 
+The blessing that Israel bestowed on the world was Jesus Christ, it is as simple as that. It is an idea reiterated by God elsewhere: 
+**Genesis 22:18 And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice** 
+And the point is underscored and made unambiguously crystal clear by Paul:
+**Galatians 3:16 Now to Abraham and his seed were the promises made. He saith not, And to seeds, as of many; but as of one, And to thy seed, which is Christ**
 
 &nbsp; 
 
-#### (Act 4)
+#### (Act 4) - I will bless them that bless thee and curse them that curse thee
 Christ came for his people, Israel. (Therefore, lest there be any confusion, 'the Church' is Israel.) At this point in the biblical narrative,
 Israel was severed into two camps, believing Israel and unbelieving Israel. 
 
@@ -133,10 +137,20 @@ and those (within Israel) who reject him will be cursed.
  
 &nbsp; 
 
-#### (Act 5)
-The gospel of Christ goes to all the nations and peoples of the world. 
+#### (Act 5) - In thee shall all the families of the earth be blessed
+The gospel of Christ goes to all the nations and peoples of the world. As with 'Act 3', I think this is a pretty self-evident proposition that needs no
+great exegesis. 
 
 
 Thus the entire biblical narrative is encapsulated in two lines of Genesis.
 Now as a caveat, I would observe that the curse on Old Covenant Israel is not a perpetual curse, far from it.
-But perhaps that is a suitable segue for part 2, provisional title, "Tabula Rasa".
+I also realize that there is a lot more to be said about the nature of blessing and cursing, as well as the specifics of the curse upon Old Covenant Israel,
+all of which I will come onto in due course.
+
+To make it slightly clearer, we are very familiar with the curse, as Jesus pronounces it repeatedly on the religious leadership shortly prior to his execution:
+
+**Matthew 23:13 
+But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye 
+them that are entering to go in**
+
+But I don't want to get dragged away from showing the general synopsis of events, so I will wrap this article here for now. 

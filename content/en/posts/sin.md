@@ -78,4 +78,6 @@ the nature of sin, which is critical in understanding blessings and cursings. Do
  which I mentioned as ‘Tabula Rasa’ in my first blog.
 
 *By natural law I just mean the nature of things. Jesus applied natural law as well as spiritual law - 'You reap what you sow'. I.E. things have consequences, something that 
-is just hard-wired into the nature of the universe, along with more tangible natural laws like 'men impregnate women to make babies'.       
+is just hard-wired into the nature of the universe, along with less abstract natural laws like 'men impregnate women to make babies'. You could also think of it this way: 
+if someone is murdered when they are twenty, not only are they victim of a heinous crime, but all the susequent generations of family that they might have had are also in a sense 
+victim of this one crime.        
