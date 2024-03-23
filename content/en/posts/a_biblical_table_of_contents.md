@@ -106,6 +106,13 @@ And the point is underscored and made unambiguously crystal clear by Paul:
 &nbsp; 
 
 #### (Act 4) - I will bless them that bless thee and curse them that curse thee
+
+{Note: This oft quoted (and somewhat weaponized) phrase involves two separate Hebrew words, 'arar' and 'qalal'. Thus, 'qalal arar qalal' = 'curse them that curse thee'.
+As I am not a Hebrew scholar I cannot conclusively translate this, although whilst the word 'arar' means to curse, the word 'qalal' carries another 
+connotation, namely 'despise, dishonour, abase, make despicable, treat with contempt'. So I would understand this phrase literally to mean: 
+"I will make despicable with a curse those who dishonour thee."}  
+
+
 Christ came for his people, Israel. (Therefore, lest there be any confusion, 'the Church' is Israel.) At this point in the biblical narrative,
 Israel was severed into two camps, believing Israel and unbelieving Israel. 
 
