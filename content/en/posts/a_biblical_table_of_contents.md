@@ -70,7 +70,7 @@ Whilst 'people' clearly overlaps with the notion of a nation, the two are not sy
 been in existence for close to 4000 years, they have inhabited their eponymous nation for less than half that time, around 1410 years to be reasonably 
 precise. 
 
-The first narrative act then is the creation of the Israelite people, which we took place between 1877BC to 1448BC, from the covenant with Abraham and the 
+The first narrative act then is the creation of the Israelite people, which we took place between 1877BC and 1448BC, from the covenant with Abraham and the 
 sons of Jacob forming the 12 tribes of Israel, down to the multitude of an estimated 1.5 million Hebrews who fled Egypt in 1448BC.
 
 &nbsp; 
@@ -122,7 +122,7 @@ Israel was severed into two camps, believing Israel and unbelieving Israel.
 These camps can also be characterized as New Covenant Israel and Old Covenant Israel.
 
 The entire purpose of Israel was to be 'a nation of priests', i.e. a group of people who ministered to mankind.
-In a holistic sense, those who accepted and followed Christ, the Great High Priest, fulfilled this heavenly mandate, and 'blessed Israel'.
+In a holistic sense, those who accepted and followed Christ, our Great High Priest, fulfilled this heavenly mandate, and 'blessed Israel'.
 Those who rejected Christ and his gospel were rebelling against the divine plan, against a priestly Israel to minister to the world;
 in a holistic sense they were 'cursing Israel'.  
 
@@ -134,12 +134,15 @@ the Law; the law both literally and pedagogically leads to Jesus.
 18 I will raise them up a Prophet from among their brethren, like unto thee, and will put my words in his mouth; and he shall speak unto them all that I shall command him.
 19 And it shall come to pass, that whosoever will not hearken unto my words which he shall speak in my name, I will require it of him.**  
 
-So Jesus is the crossroads represented in the Old Testament by Mounts Ebal & Gerizim: choose to be blessed on one hill, or cursed on the other.
-Old Covenant Israel at the end of the Law era, when Christ was ministering, had a binary choice: obey the Law and accept Christ, and therefore be blessed,
-or reject Christ, thereby repudiating the Law, (but nonethless putting oneself back under the Law, and hence under the curse of the Law), and therefore be cursed.
-And so, to sum up, this is what is meant in Genesis 12 - Christ will come out of Israel, and those who accept him (within Israel) will be blessed, 
-and those (within Israel) who reject him will be cursed. 
- 
+So Jesus is in fact the crossroads represented in the Old Testament by Mounts Ebal & Gerizim: choose to be blessed on one hill, or cursed on the other.
+Old Covenant Israel at the end of the Law era, when Christ was ministering, had a binary choice: obey the Law, which lead to Christ, and so accept Christ, and so 
+be blessed, or reject Christ, thereby repudiating the Law, and therefore be cursed. (Of course it was no small matter accepting Christ in the first Century Israel -
+the early believers suffered intense persecution at the hands of theiri own kith and kin, and many turned coat).
+
+So, to sum up, this is what is meant in Genesis 12 - Christ will come out of Israel, and those who accept him within Israel will be blessed, and those within Israel 
+who reject him will be cursed. The actual form of the curse (and blessing) are all enumerated in the Law itself. For instance, Leviticus 26 and Deuteronomy 32. What is 
+important to understand here is that the Law itself was a curse, and Jesus was the removal of the curse. So if you did not follow Jesus, you were in effect leaving
+yourself under the Law, with all its curses.   
 &nbsp; 
 
 #### (Act 5) - In thee shall all the families of the earth be blessed
