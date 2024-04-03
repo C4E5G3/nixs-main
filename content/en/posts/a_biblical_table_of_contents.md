@@ -10,8 +10,6 @@ tags:
 
 ## S1.1 Of Tablets & Tableaux&nbsp;  
 ___
-##### Thou preparest a table before me in the presence of mine enemies - Psalm 23:5
-&nbsp;   
 
 The 66 books of the Bible which serve as an outline of the contents therein nonethless offer very little in the way of clues 
 about the themes, structure, and overall narrative flow of the book. Broadly speaking the New Testament is easily apprehended -
