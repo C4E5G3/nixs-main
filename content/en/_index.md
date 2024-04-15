@@ -7,7 +7,7 @@
 The name of this blog relates to my particular appreciation of Nixos, which is nominally a Linux operating system, but
 given that it does not use the traditional fhs file system, one could even call it a "post-Linux" operating system. This would be 
 fairer at least to newcomers, as the skillset required for Nixos is really very much out of the scope of traditional Linux competences, but on balance,
-perhaps it can be called a "second generation" Linux operating system. I don't know - I'll leave to the experts to adjudicate.
+perhaps it can be called a "second generation" Linux operating system. I don't know - I'll leave it to the experts to adjudicate.
 
 The site is a portemanteau - I blog about tech, current affairs, biblical subjects, a pot-pourri of things.......
 

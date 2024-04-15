@@ -65,12 +65,12 @@ Let's examine these elements one by one.
 &nbsp;   
 
 #### (Act 1) - I will make of thee a great nation 
-The primary meaning of the hebrew word 'gôy' here is a body of people, and so this is better understood as: "I will make of thee a great people". 
-Whilst 'people' clearly overlaps with the notion of a nation, the two are not synonymous, and it is worth bearing in mind that whilst the Israelites have 
-been in existence for close to 4000 years, they have inhabited their eponymous nation for less than half that time, around 1410 years to be reasonably 
-precise. 
+The primary meaning of the hebrew word 'gôy' here is a body of people, and so this is better understood as: "I will make of thee a 
+great people". Whilst 'people' clearly overlaps with the notion of a nation, the two are not synonymous, and it is worth bearing in 
+mind that whilst the Israelites have been in existence for close to 4000 years, they have inhabited their eponymous nation for less 
+than half that time, around 1410 years to be reasonably precise. 
 
-The first narrative act then is the creation of the Israelite people, which we took place between 1877BC and 1448BC, from the covenant with Abraham and the 
+The first narrative act then is the creation of the Israelite people, which took place between 1877BC and 1448BC, from the covenant with Abraham and the 
 sons of Jacob forming the 12 tribes of Israel, down to the multitude of an estimated 1.5 million Hebrews who fled Egypt in 1448BC.
 
 &nbsp; 
