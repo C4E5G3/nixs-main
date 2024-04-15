@@ -6,6 +6,13 @@ menuitems:
     link: /blog/
   - title: About Me
     link: /about/
+  - title: Standard Error
+    link: /standard_error/
+    items: 
+      - title: Millennial Confusion
+        link: /millennium
+
+
 #    items: 
 #      - title:
 #        link:
