@@ -27,7 +27,7 @@ understanding as to who Christ is. The revelation (literally - 'unveiling') is, 
 the understanding of the Jews, in order that they can see Jesus' face so to speak, his identity.
 
 The millennium itself is simply the 1000 generation promise that God made to Israel no less than five times in the Old Testament. 
-This fact is partially obscured by the encoding of the the timeframe, and at some point I will explain how timeframes are 
+This fact is partially obscured by the encoding of the timeframe, and at some point I will explain how timeframes are 
 encoded in the Bible, and how critically important they are. Nevertheless, in this instance, the concealement is extremely
 slight - we don't need to be Nicolas Tesla to see the affinity between 1000 years and 1000 generations. 
 
@@ -46,7 +46,9 @@ shows that it has no proper idea about the nature of God's promises and covenant
 It is true that pre-millennarianism is therefore, by default, correct out of the three doctrines, but I have never heard 
 this camp properly explain the timeframes and epochs in view. They are simply correct in the way that a multiple choice answer 
 can be correct, 'least dirty shirt' as it were. If they could explain the old covenant promises and curses in view, then 
-there would be no doctrinal division whatsoever, as everything would then be glaringly obvious really...(tbc)
+there would be no doctrinal division whatsoever, as everything would then be glaringly obvious. 
+
+...(tbc)...
 
 {{< /brick_wide >}}
 
