@@ -82,14 +82,14 @@ I would suggest installing Debian, and then installing 'Distrobox' on top, (with
 available on Flatpaks), where you can then create virtual machines which allows you to experiment effortlessly with 
 other Linux distros.
 
-I will state this more explicitly for those who are new to Linux. Linux comes in a bewildering array of different flavours,
-called 'distros', (distributions). There are literally hundreds of different distributions, (if not more??). 
-This is all noise. Think of all those distros as 'tail', and Debian as 'head', i.e. simply go to the Debian website
-and install the latest stable version, Debian 12 I think at the moment. Get to grips with Debian, and the Debian package manager.
+I will state this more explicitly for those who are new to Linux. Linux comes in a bewildering array of different flavours, called 'distros', (distributions). There are literally hundreds of different distributions, (if not more??). 
+This is all noise. Think of all those distros as 'tail', and Debian as 'head', i.e. simply concentrate on Debian. 
+Go to the Debian website and download and install the latest stable version, Debian 12 I think at the moment. Obviously follow a decent guide on Youtube to take you through the whole process of migrating from Windows.
+ 
+Get to grips with Debian, and the Debian package manager. Get to grips with Linux through Debian.
+Use either Plasma or Gnome as your desktop manager. Gnome is very good.
 
-Then once you feel comfortable, you can later install Distrobox and use it to explore other distros, in a safe space.
-The only other path might be to install SteamOS (rather than Debian), as it apparently is the best gaming OS, not that
-I know anything about gaming.
+Later down the line,  once you feel comfortable, you can then install Distrobox and use it to explore other distros, in a safe space. The only other relevant path, for those who game, might be to install SteamOS (rather than Debian), as it apparently is the best gaming OS, not that I know anything about gaming.
 
 Regarding Windows, (of which I have zero knowledge), you can dual boot, which is a faff, but you can more easily run it 
 on wsl I believe...Check on ChatGPT.
