@@ -73,15 +73,6 @@ all-in Linux. I don't want to talk pejoratively about those other systems.
 13. Security - yes you read that correctly. I don't even want to think about what 'the alternatives' are presently
 implementing in terms of monitoring your personal space. Youtube things like 'spyware' and 'zero day exploits'. 
 
-
-*My personal bugbear - amongst a sleuth - with Windows was the amount of time spent shoring it up
-
-**You can exhume old hardware and get Linux to run on it, however this is not advisable.
-But you can use a minimal modern system (my 8GB DDR Ram set-up cost under 350 Euros)
-and have a very good experience. Most Linux systems occupy about 10-20GB of drive space 
-
-***A sleuth (or clowder) is a group of bears - thanks ChatGPT :))
-
 These are not the only areas in which Linux offers advantages, but they are the main ones,
 outside of specific use cases. Now unless you have a background in functional programming,
 I would not advise trying to jump straight into Nixos, (although it offers both more of the above advantages, and more <ins>than</ins> the above advantages),
@@ -104,6 +95,15 @@ Regarding Windows, (of which I have zero knowledge), you can dual boot, which is
 on wsl I believe...Check on ChatGPT.
 
  
+
+*My personal bugbear - amongst a sleuth - with Windows was the amount of time spent shoring it up
+
+**You can exhume old hardware and get Linux to run on it, however this is not advisable.
+But you can use a minimal modern system (my 8GB DDR Ram set-up cost under 350 Euros)
+and have a very good experience. Most Linux systems occupy about 10-20GB of drive space 
+
+***A sleuth (or clowder) is a group of bears - thanks ChatGPT :))
+
 
 
  
