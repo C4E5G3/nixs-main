@@ -70,6 +70,9 @@ all-in Linux. I don't want to talk pejoratively about those other systems.
 10. Privacy oriented (proprietorial operating systems these days are literally tracking devices)
 11. Seamless (updates)
 12. Optimized Kernel (Linux works with most hardware out of the box)
+13. Security - yes you read that correctly. I don't even want to think about what 'the alternatives' are presently
+implementing in terms of monitoring your personal space. Youtube things like 'spyware' and 'zero day exploits'. 
+
 
 *My personal bugbear - amongst a sleuth - with Windows was the amount of time spent shoring it up
 
@@ -82,7 +85,31 @@ and have a very good experience. Most Linux systems occupy about 10-20GB of driv
 These are not the only areas in which Linux offers advantages, but they are the main ones,
 outside of specific use cases. Now unless you have a background in functional programming,
 I would not advise trying to jump straight into Nixos, (although it offers both more of the above advantages, and more <ins>than</ins> the above advantages),
-much better to cut one's teeth with an established popular distro, e.g. PopOS, Mint, Debian, Ubuntu, Open Suse Tumbleweed   
+much better to cut one's teeth with an established popular distro, e.g. PopOS, Mint, Debian, Ubuntu, Open Suse Tumbleweed
+
+I would suggest installing Debian, and then installing 'Distrobox' on top, (with the the 'BoxBuddy' GUI accessory - 
+available on Flatpaks), where you can then create virtual machines which allows you to experiment effortlessly with 
+other Linux distros.
+
+I will state this more explicitly for those who are new to Linux. Linux comes in a bewildering array of different flavours,
+called 'distros', (distributions). There are literally hundreds of different distributions, (if not more??). 
+This is all noise. Think of all those distros as 'tail', and Debian as 'head', i.e. simply go to the Debian website
+and install the latest stable version, Debian 12 I think at the moment. Get to grips with Debian, and the Debian package manager.
+
+Then once you feel comfortable, you can later install Distrobox and use it to explore other distros, in a safe space.
+The only other path might be to install SteamOS (rather than Debian), as it apparently is the best gaming OS, not that
+I know anything about gaming.
+
+Regarding Windows, (of which I have zero knowledge), you can dual boot, which is a faff, but you can more easily run it 
+on wsl I believe...Check on ChatGPT.
+
+ 
+
+
+ 
+
+
+   
   
 
 {{< /brick_image2 >}}
